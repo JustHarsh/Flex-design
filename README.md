@@ -1,6 +1,6 @@
 # Flex-design
 
-**Demo - **
+** Demo - **
 
 ![](assets/demo.png)
 
